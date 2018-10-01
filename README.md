@@ -1,2 +1,2 @@
 # Checkpoints for Nutucoin syncing from zero
-## How to use:
+### How to use: (Work on progress)
